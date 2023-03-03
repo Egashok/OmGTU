@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\bin\Debug\net6.0\pauk.exe
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\bin\Debug\net6.0\pauk.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\bin\Debug\net6.0\pauk.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\bin\Debug\net6.0\pauk.dll
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\bin\Debug\net6.0\pauk.pdb
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\obj\Debug\net6.0\pauk.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\obj\Debug\net6.0\pauk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\obj\Debug\net6.0\pauk.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\obj\Debug\net6.0\pauk.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\obj\Debug\net6.0\pauk.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\obj\Debug\net6.0\pauk.dll
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\obj\Debug\net6.0\refint\pauk.dll
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\obj\Debug\net6.0\pauk.pdb
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\obj\Debug\net6.0\pauk.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\csharp\olimp\pauk\obj\Debug\net6.0\ref\pauk.dll

@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\bin\Debug\net6.0\prima.exe
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\bin\Debug\net6.0\prima.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\bin\Debug\net6.0\prima.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\bin\Debug\net6.0\prima.dll
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\bin\Debug\net6.0\prima.pdb
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\obj\Debug\net6.0\prima.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\obj\Debug\net6.0\prima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\obj\Debug\net6.0\prima.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\obj\Debug\net6.0\prima.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\obj\Debug\net6.0\prima.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\obj\Debug\net6.0\prima.dll
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\obj\Debug\net6.0\refint\prima.dll
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\obj\Debug\net6.0\prima.pdb
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\obj\Debug\net6.0\prima.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\csharp\dm\prima\obj\Debug\net6.0\ref\prima.dll
