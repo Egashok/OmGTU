@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\bin\Debug\net6.0\floyd.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\bin\Debug\net6.0\floyd.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\bin\Debug\net6.0\floyd.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\bin\Debug\net6.0\floyd.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\bin\Debug\net6.0\floyd.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\obj\Debug\net6.0\floyd.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\obj\Debug\net6.0\floyd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\obj\Debug\net6.0\floyd.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\obj\Debug\net6.0\floyd.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\obj\Debug\net6.0\floyd.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\obj\Debug\net6.0\floyd.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\obj\Debug\net6.0\refint\floyd.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\obj\Debug\net6.0\floyd.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\obj\Debug\net6.0\floyd.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\floyd\obj\Debug\net6.0\ref\floyd.dll
