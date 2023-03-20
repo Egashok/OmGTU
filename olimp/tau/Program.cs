@@ -2,19 +2,13 @@
 string[] words2 = new string[words.Length];
 
 words2[0] = words[words.Length / 2];
-
-int k = 1;
-for (int i = words.Length / 2 - 1; i >= 0; i--)
+for (int i = 1; i <= words.Length / 2; i++)
 {
-    words2[k] = words[i];
-    k = k + 2;
-}
-
-k = 2;
-for (int i = words.Length / 2 + 1; i < words.Length; i++)
-{
-    words2[k] = words[i];
-    k = k + 2;
+    words2[i * 2 - 1] = words[words.Length / 2 - i];
+    if (words.Length / 2 + i < words.Length)
+    {
+        words2[i * 2] = words[words.Length / 2 + i];
+    }
 }
 
 for (int i = 0; i < words2.Length; i++)
@@ -23,19 +17,18 @@ for (int i = 0; i < words2.Length; i++)
     string newword = "";
 
     newword += word[word.Length / 2];
-    for (int j = 0; j < word.Length / 2; j++)
+    for (int j = 1; j <= word.Length / 2; j++)
     {
-        newword += word[word.Length / 2 - j - 1];
+        newword += word[word.Length / 2 - j];
         if (word.Length / 2 + j < word.Length)
         {
-            newword += word[word.Length / 2 + j + 1];
+            newword += word[word.Length / 2 + j];
         }
     }
     words2[i] = newword;
 }
 
-foreach (string c in words2)
+foreach (string word in words2)
 {
-    Console.Write(c + " ");
-
+    Console.Write(word + " ");
 }
