@@ -1,17 +1,20 @@
 ﻿Console.WriteLine("Введите длину массива");
 int n = Int32.Parse(Console.ReadLine());
-var mas = new string[n];
+Array mas = Array.CreateInstance(typeof(string), n);
 
 Console.WriteLine("Введите значения через Enter:");
-for (int i = 0; i < mas.Length; i++)
+for (int i = 1; i < n + 1; i++)
 {
-    mas[i] = Console.ReadLine();
+    mas.SetValue(Console.ReadLine(), i - 1);
 }
+
+
+
 
 while (true)
 {
     Console.Clear();
-    Console.WriteLine($"1.Lenght\n2.Clear\n3.IndexOf\n4.LastIndexOf\n5.Resize\n6.Reverse\n7.Fill\n8.BinarySearch\n9.Sort\nSpace.Вывод массива\n0.Выход");
+    Console.WriteLine($"1.Lenght\n2.Clear\n3.IndexOf\n4.LastIndexOf\n5.GetType\n6.Reverse\n7.GetValue\n8.BinarySearch\n9.Sort\nSpace.Вывод массива\n0.Выход");
     ConsoleKeyInfo key;
     key = Console.ReadKey();
     Console.Clear();
@@ -38,9 +41,7 @@ while (true)
     }
     if (key.Key == ConsoleKey.D5)
     {
-        Console.WriteLine("Введите новую длину массива:");
-        int k = Int32.Parse(Console.ReadLine());
-        Array.Resize(ref mas, k);
+        Console.WriteLine(mas.GetType());
     }
     if (key.Key == ConsoleKey.D6)
     {
@@ -50,9 +51,8 @@ while (true)
 
     if (key.Key == ConsoleKey.D7)
     {
-        Console.WriteLine("Введите объект:");
-        string newObj = Console.ReadLine();
-        Array.Fill(mas, newObj);
+        Console.WriteLine("Укажите индекс");
+        Console.WriteLine(mas.GetValue(int.Parse(Console.ReadLine())));
     }
     if (key.Key == ConsoleKey.D8)
     {
@@ -68,9 +68,9 @@ while (true)
     }
     if (key.Key == ConsoleKey.Spacebar)
     {
-        for (int i = 0; i < mas.Length; i++)
+        foreach (string x in mas)
         {
-            Console.WriteLine(mas[i]);
+            Console.WriteLine(x);
         }
 
     }
