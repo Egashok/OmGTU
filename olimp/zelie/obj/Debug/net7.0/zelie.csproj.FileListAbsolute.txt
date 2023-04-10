@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\bin\Debug\net7.0\zelie.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\bin\Debug\net7.0\zelie.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\bin\Debug\net7.0\zelie.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\bin\Debug\net7.0\zelie.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\bin\Debug\net7.0\zelie.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\obj\Debug\net7.0\zelie.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\obj\Debug\net7.0\zelie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\obj\Debug\net7.0\zelie.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\obj\Debug\net7.0\zelie.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\obj\Debug\net7.0\zelie.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\obj\Debug\net7.0\zelie.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\obj\Debug\net7.0\refint\zelie.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\obj\Debug\net7.0\zelie.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\obj\Debug\net7.0\zelie.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\zelie\obj\Debug\net7.0\ref\zelie.dll

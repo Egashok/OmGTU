@@ -8,9 +8,6 @@ for (int i = 1; i < n + 1; i++)
     mas.SetValue(Console.ReadLine(), i - 1);
 }
 
-
-
-
 while (true)
 {
     Console.Clear();

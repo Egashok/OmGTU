@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\bin\Debug\net7.0\ford.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\bin\Debug\net7.0\ford.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\bin\Debug\net7.0\ford.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\bin\Debug\net7.0\ford.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\bin\Debug\net7.0\ford.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\obj\Debug\net7.0\ford.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\obj\Debug\net7.0\ford.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\obj\Debug\net7.0\ford.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\obj\Debug\net7.0\ford.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\obj\Debug\net7.0\ford.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\obj\Debug\net7.0\ford.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\obj\Debug\net7.0\refint\ford.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\obj\Debug\net7.0\ford.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\obj\Debug\net7.0\ford.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\ford\obj\Debug\net7.0\ref\ford.dll
