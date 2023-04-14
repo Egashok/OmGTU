@@ -61,33 +61,33 @@ while (true)
     {
         Console.Write("Введите последовательность: ");
         string str = Console.ReadLine();
-        Stack stack1 = new Stack();
-        var staples = new Dictionary<char, char>()
+        Stack stackhelp = new Stack();
+        var slovar = new Dictionary<char, char>()
         {
             { '[', ']'},
             { '(', ')'},
             { '{', '}'}
         };
-        bool Flag = true;
+        bool usl = true;
         foreach (char ch in str)
         {
-            if (staples.ContainsKey(ch))
+            if (slovar.ContainsKey(ch))
             {
-                stack1.Push(ch);
+                stackhelp.Push(ch);
             }
-            else if (stack1.Count == 0 || staples[Convert.ToChar(stack1.Pop())] != ch)
+            else if (stackhelp.Count == 0 || slovar[Convert.ToChar(stackhelp.Pop())] != ch)
             {
-                Flag = false;
+                usl = false;
                 break;
             }
         }
-        if (Flag && stack1.Count == 0)
+        if (usl && stackhelp.Count == 0)
         {
-            Console.WriteLine("Правильно");
+            Console.WriteLine("Верно");
         }
         else
         {
-            Console.WriteLine("Неправильно");
+            Console.WriteLine("Неверно");
         }
 
     }
