@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\obj\Debug\net7.0\dengi.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\obj\Debug\net7.0\dengi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\obj\Debug\net7.0\dengi.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\obj\Debug\net7.0\dengi.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\obj\Debug\net7.0\dengi.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\bin\Debug\net7.0\dengi.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\bin\Debug\net7.0\dengi.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\bin\Debug\net7.0\dengi.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\bin\Debug\net7.0\dengi.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\bin\Debug\net7.0\dengi.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\obj\Debug\net7.0\dengi.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\obj\Debug\net7.0\refint\dengi.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\obj\Debug\net7.0\dengi.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\obj\Debug\net7.0\dengi.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\dengi\obj\Debug\net7.0\ref\dengi.dll

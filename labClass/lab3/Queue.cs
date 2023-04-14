@@ -75,4 +75,3 @@ while (true)
     Console.WriteLine("Нажмите чтобы продолжить...");
     Console.ReadKey();
 }
-
