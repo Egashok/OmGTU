@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea6048b-846a-4e60-93d0-c8fbf969032a" name="Changes" comment="" />
+    <list default="true" id="1ea6048b-846a-4e60-93d0-c8fbf969032a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../olimp/dengi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../olimp/dengi/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../olimp/dengi/bin/Debug/net7.0/dengi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../olimp/dengi/bin/Debug/net7.0/dengi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../olimp/dengi/bin/Debug/net7.0/dengi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../olimp/dengi/bin/Debug/net7.0/dengi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../olimp/dengi/obj/Debug/net7.0/dengi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../olimp/dengi/obj/Debug/net7.0/dengi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../olimp/dengi/obj/Debug/net7.0/dengi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../olimp/dengi/obj/Debug/net7.0/dengi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../olimp/dengi/obj/Debug/net7.0/dengi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../olimp/dengi/obj/Debug/net7.0/dengi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../olimp/dengi/obj/Debug/net7.0/dengi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../olimp/dengi/obj/Debug/net7.0/dengi.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +30,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="OOP" />
@@ -60,5 +69,16 @@
       <updated>1681129202148</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
