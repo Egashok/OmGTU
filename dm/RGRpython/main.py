@@ -1,21 +1,29 @@
 #Ввод : ребро1 ребро2 вес
 
+f = open('input.txt')
+
 ribrs=[]
 peaks=""
 opPeaks=""
 #задействованные вершины
 score=0
-inpRibrs = input()
+cityCount=f.readline()
+cities=list(f.readline().split())
+roadCount=int(f.readline())
+roads=list(f.readline().split())
+now=0
 
-while inpRibrs !='':
-    ribrsStr = [inpRibrs.split()[0], inpRibrs.split()[1], int(inpRibrs.split()[2])]
+
+for i in range(roadCount): 
+    ribrsStr = [roads[now],roads[now+1],int(cities[i])]
     if ribrsStr[0] not in peaks:
         peaks += ribrsStr[0]
     if ribrsStr[1] not in peaks:
         peaks += ribrsStr[1]
-    score = max(score, ribrsStr[2])
+    score = max(score, int(ribrsStr[2]))
     ribrs.append(ribrsStr)
-    inpRibrs = input()
+    now+=2
+print(peaks)
 for i in ribrs:
     print(i)
 
@@ -61,5 +69,3 @@ while a != None:
 #d[b]-вес конечной вершины
 print(d)
 print(d[b])
-
-

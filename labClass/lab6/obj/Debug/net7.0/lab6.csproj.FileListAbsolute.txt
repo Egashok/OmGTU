@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\bin\Debug\net7.0\lab6.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\bin\Debug\net7.0\lab6.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\bin\Debug\net7.0\lab6.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\bin\Debug\net7.0\lab6.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\bin\Debug\net7.0\lab6.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\obj\Debug\net7.0\lab6.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\obj\Debug\net7.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\obj\Debug\net7.0\lab6.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\obj\Debug\net7.0\lab6.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\obj\Debug\net7.0\lab6.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\obj\Debug\net7.0\lab6.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\obj\Debug\net7.0\refint\lab6.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\obj\Debug\net7.0\lab6.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\obj\Debug\net7.0\lab6.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab6\obj\Debug\net7.0\ref\lab6.dll

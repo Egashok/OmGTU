@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\bin\Debug\net7.0\RGR.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\bin\Debug\net7.0\RGR.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\bin\Debug\net7.0\RGR.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\bin\Debug\net7.0\RGR.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\bin\Debug\net7.0\RGR.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\RGR.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\RGR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\RGR.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\RGR.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\RGR.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\RGR.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\refint\RGR.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\RGR.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\RGR.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\ref\RGR.dll
