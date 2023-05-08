@@ -79,7 +79,7 @@ while (true)
             {
                 usl = false;
                 break;
-            }x
+            }
         }
         if (usl && stackhelp.Count == 0)
         {
