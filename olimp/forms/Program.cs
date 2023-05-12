@@ -152,7 +152,7 @@ int Vrashsravneniye(string num1, string num2, string num3, string num4, string u
 }
 int Vrashsimsravneniyr(string num1s, string num2s, string num3s, string num4s, string up, string inner, string down, int numcheck)
 {
-    //1432 2143 3214 4321
+
     if (String.Equals(num1s, up) && String.Equals(num4s, inner) && (String.Equals(num3s, down)))
     {
         numcheck = 3;
