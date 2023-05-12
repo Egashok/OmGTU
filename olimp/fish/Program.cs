@@ -8,19 +8,19 @@ for (int i = 0; i < n; i++)
 }
 
 Dictionary<string, int> FirstChar = new Dictionary<string, int>();
-int n1 = Convert.ToInt32((f[n + 1]));
+int n1 = int.Parse(f[n + 1]);
 for (int i = n + 2; i < n + 2 + n1; i++)
 {
     string[] str = f[i].Split();
-    FirstChar.Add(str[0], Convert.ToInt32((str[1])));
+    FirstChar.Add(str[0], int.Parse(str[1]));
 }
 
 Dictionary<string, int> LastChar = new Dictionary<string, int>();
-int n2 = Convert.ToInt32((f[n + n1 + 2]));
+int n2 = int.Parse(f[n + n1 + 2]);
 for (int i = n + n1 + 3; i < n + n2 + 3 + n1; i++)
 {
     string[] str = f[i].Split();
-    LastChar.Add(str[0], Convert.ToInt32((str[1])));
+    LastChar.Add(str[0], int.Parse(str[1]));
 }
 
 Dictionary<string, int> comb = new Dictionary<string, int>();
@@ -45,11 +45,13 @@ bool Flag = true;
 while (comb.Count > 0 && Flag)
 {
     Flag = false;
+
     foreach (var combination in comb)
     {
         string key = combination.Key;
-        Console.Write($"key: {key}");
+
         int minn = Math.Min(FirstChar[Convert.ToString(key[0])], LastChar[Convert.ToString(key[1])]);
+
         if (combination.Value < minn)
         {
             Count++;
@@ -68,8 +70,10 @@ while (comb.Count > 0 && Flag)
     }
 }
 
+
 while (comb.Count > 0)
 {
+
     string key = "";
     int key_value = 0;
     foreach (var first in FirstChar)
