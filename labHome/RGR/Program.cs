@@ -8,7 +8,9 @@ while (true)
     Console.WriteLine("1.Добавить календарь");
     Console.WriteLine("2.Определить день недели по дате");
     Console.WriteLine("3.Числа по дню недели");
-    Console.WriteLine("4.Выход");
+    Console.WriteLine("4.Об авторе");
+
+    Console.WriteLine("5.Выход");
 
     ConsoleKeyInfo key = Console.ReadKey();
     Console.Clear();
@@ -99,7 +101,13 @@ while (true)
         }
 
     }
-    if (key.Key == ConsoleKey.D4)
+     if (key.Key == ConsoleKey.D4)
+    {
+        Console.WriteLine("Шохин Егор");
+        Console.WriteLine("ФИТ-221");
+        Console.ReadLine();
+    }
+    if (key.Key == ConsoleKey.D5)
     {
         break;
     }
