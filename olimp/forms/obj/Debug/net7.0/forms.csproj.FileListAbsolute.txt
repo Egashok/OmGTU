@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\bin\Debug\net7.0\forms.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\bin\Debug\net7.0\forms.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\bin\Debug\net7.0\forms.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\bin\Debug\net7.0\forms.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\bin\Debug\net7.0\forms.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\obj\Debug\net7.0\forms.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\obj\Debug\net7.0\forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\obj\Debug\net7.0\forms.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\obj\Debug\net7.0\forms.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\obj\Debug\net7.0\forms.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\obj\Debug\net7.0\forms.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\obj\Debug\net7.0\refint\forms.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\obj\Debug\net7.0\forms.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\obj\Debug\net7.0\forms.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\forms\obj\Debug\net7.0\ref\forms.dll
