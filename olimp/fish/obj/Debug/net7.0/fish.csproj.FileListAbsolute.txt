@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\bin\Debug\net7.0\fish.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\bin\Debug\net7.0\fish.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\bin\Debug\net7.0\fish.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\bin\Debug\net7.0\fish.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\bin\Debug\net7.0\fish.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\obj\Debug\net7.0\fish.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\obj\Debug\net7.0\fish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\obj\Debug\net7.0\fish.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\obj\Debug\net7.0\fish.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\obj\Debug\net7.0\fish.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\obj\Debug\net7.0\fish.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\obj\Debug\net7.0\refint\fish.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\obj\Debug\net7.0\fish.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\obj\Debug\net7.0\fish.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\olimp\fish\obj\Debug\net7.0\ref\fish.dll
