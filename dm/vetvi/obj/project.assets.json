@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\deikstra — копия.csproj",
-      "projectName": "deikstra — копия",
-      "projectPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\deikstra — копия.csproj",
+      "projectUniqueName": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\vetvi.csproj",
+      "projectName": "vetvi",
+      "projectPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\vetvi.csproj",
       "packagesPath": "C:\\Users\\djego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\obj\\",
+      "outputPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

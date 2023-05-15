@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\floyd\\floyd.csproj": {}
+    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\vetvi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\floyd\\floyd.csproj": {
+    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\vetvi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\floyd\\floyd.csproj",
-        "projectName": "floyd",
-        "projectPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\floyd\\floyd.csproj",
+        "projectUniqueName": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\vetvi.csproj",
+        "projectName": "vetvi",
+        "projectPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\vetvi.csproj",
         "packagesPath": "C:\\Users\\djego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\floyd\\obj\\",
+        "outputPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",

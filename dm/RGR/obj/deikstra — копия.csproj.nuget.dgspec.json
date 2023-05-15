@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\RGR.csproj": {}
+    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\deikstra — копия.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\RGR.csproj": {
+    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\deikstra — копия.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\RGR.csproj",
-        "projectName": "RGR",
-        "projectPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\RGR.csproj",
+        "projectUniqueName": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\deikstra — копия.csproj",
+        "projectName": "deikstra — копия",
+        "projectPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\deikstra — копия.csproj",
         "packagesPath": "C:\\Users\\djego\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\RGR\\obj\\",
         "projectStyle": "PackageReference",

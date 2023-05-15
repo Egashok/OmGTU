@@ -1,0 +1,30 @@
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\bin\Debug\net7.0\deikstra — копия.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\bin\Debug\net7.0\deikstra — копия.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\bin\Debug\net7.0\deikstra — копия.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\bin\Debug\net7.0\deikstra — копия.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\bin\Debug\net7.0\deikstra — копия.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\obj\Debug\net7.0\deikstra — копия.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\obj\Debug\net7.0\deikstra — копия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\obj\Debug\net7.0\deikstra — копия.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\obj\Debug\net7.0\deikstra — копия.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\obj\Debug\net7.0\deikstra — копия.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\obj\Debug\net7.0\deikstra — копия.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\obj\Debug\net7.0\refint\deikstra — копия.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\obj\Debug\net7.0\deikstra — копия.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\obj\Debug\net7.0\deikstra — копия.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\deikstra — копия\obj\Debug\net7.0\ref\deikstra — копия.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\bin\Debug\net7.0\deikstra — копия.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\bin\Debug\net7.0\deikstra — копия.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\bin\Debug\net7.0\deikstra — копия.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\bin\Debug\net7.0\deikstra — копия.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\bin\Debug\net7.0\deikstra — копия.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\deikstra — копия.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\deikstra — копия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\deikstra — копия.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\deikstra — копия.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\deikstra — копия.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\deikstra — копия.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\refint\deikstra — копия.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\deikstra — копия.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\deikstra — копия.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\RGR\obj\Debug\net7.0\ref\deikstra — копия.dll
