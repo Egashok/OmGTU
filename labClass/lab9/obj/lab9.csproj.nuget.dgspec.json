@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\vetvi.csproj": {}
+    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\labClass\\lab9\\lab9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\vetvi.csproj": {
+    "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\labClass\\lab9\\lab9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\vetvi.csproj",
-        "projectName": "vetvi",
-        "projectPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\vetvi.csproj",
+        "projectUniqueName": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\labClass\\lab9\\lab9.csproj",
+        "projectName": "lab9",
+        "projectPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\labClass\\lab9\\lab9.csproj",
         "packagesPath": "C:\\Users\\djego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\dm\\vetvi\\obj\\",
+        "outputPath": "C:\\Users\\djego\\OneDrive\\Рабочий стол\\OMGTU\\labClass\\lab9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

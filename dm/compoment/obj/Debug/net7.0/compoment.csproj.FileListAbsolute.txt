@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\bin\Debug\net7.0\compoment.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\bin\Debug\net7.0\compoment.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\bin\Debug\net7.0\compoment.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\bin\Debug\net7.0\compoment.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\bin\Debug\net7.0\compoment.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\obj\Debug\net7.0\compoment.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\obj\Debug\net7.0\compoment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\obj\Debug\net7.0\compoment.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\obj\Debug\net7.0\compoment.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\obj\Debug\net7.0\compoment.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\obj\Debug\net7.0\compoment.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\obj\Debug\net7.0\refint\compoment.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\obj\Debug\net7.0\compoment.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\obj\Debug\net7.0\compoment.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\dm\compoment\obj\Debug\net7.0\ref\compoment.dll
