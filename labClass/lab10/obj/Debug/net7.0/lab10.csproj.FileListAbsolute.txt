@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\bin\Debug\net7.0\lab10.exe
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\bin\Debug\net7.0\lab10.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\bin\Debug\net7.0\lab10.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\bin\Debug\net7.0\lab10.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\bin\Debug\net7.0\lab10.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\obj\Debug\net7.0\lab10.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\obj\Debug\net7.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\obj\Debug\net7.0\lab10.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\obj\Debug\net7.0\lab10.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\obj\Debug\net7.0\lab10.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\obj\Debug\net7.0\lab10.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\obj\Debug\net7.0\refint\lab10.dll
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\obj\Debug\net7.0\lab10.pdb
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\obj\Debug\net7.0\lab10.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\OMGTU\labClass\lab10\obj\Debug\net7.0\ref\lab10.dll
