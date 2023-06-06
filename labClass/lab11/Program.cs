@@ -1,90 +1,99 @@
-﻿
+﻿﻿using System.Linq;
 
-var driver1 = new Driver("Egor", car2.id);
-var driver2 = new Driver("Dima", car2.id);
-var driver3 = new Driver("Kolya", car1.id);
-var driver4 = new Driver("Sirega", car4.id);
-var driver5 = new Driver("Andrei", car2.id);
-var driver6 = new Driver("Katya", car3.id);
-var driver7 = new Driver("Dasha", car3.id);
+var product=new List<string[]>();
+var creator=new List<string[]>();
+var countProduct=new List<string[]>();
 
-var drivers = new List<Driver> 
-{
-   driver1,
-   driver2,
-   driver3,
-   driver4,
-   driver5,
-   driver6,
-   driver7
-};
+while(true){
+    Console.Clear();
+    Console.WriteLine("Меню \n\n1.Добавить товар\n2.Добавить производителя\n3.Дабавить поставку\n4.Выборка\n0.Выход");
+    string k = Console.ReadLine();
+    Console.Clear();
 
-
-var car1 = new Car("abc123", "porshe");
-var car2 = new Car("qwe971", "toyota");
-var car3 = new Car("zxc323", "mers");
-var car4 = new Car("asd228", "lada");
-
-var cars = new List<Car>
-{
-    car1,
-    car2,
-    car3,
-    car4
-};
-
-
-var groupDrivers = from driver in drivers
-                group driver by driver.car_id;
-
-foreach (var car in groupDrivers)
-{
-    Console.WriteLine($"Бренд: {cars[car.Key].brand} номер: {cars[car.Key].number}");
-
-    foreach (var driver in car)
-    {
-        Console.WriteLine(driver.name);
+    if (k=="1"){
+        Console.Write("Введите наименование продукта: ");
+        string name = Console.ReadLine();
+        string product_id = Convert.ToString(product.Count());
+        string[] prod = {name, product_id};
+        product.Add(prod);
     }
-    Console.WriteLine();
-}
+    if (k=="2"){
+        Console.Write("Введите наименование производителя: ");
+        string name = Console.ReadLine();
+        string creator_id = Convert.ToString(creator.Count());
+        string[] cr = {name, creator_id};
+        creator.Add(cr);
+    }
+    if (k=="3"){
+        Console.Write("Введите id товара: ");
+        string product_id = Console.ReadLine();
+        Console.Write("Введите id производителя: ");
+        string creator_id = Console.ReadLine();
+        Console.Write("Введите количество: ");
+        string count = Console.ReadLine();
+        Console.Write("Введите дату: ");
+        string date = Console.ReadLine();
+        string[] c = {product_id, creator_id, count, date};
+        countProduct.Add(c);
+    }
+    if (k=="4"){
+        while(true){
+            Console.WriteLine("1.По дате\n2.По товару\n3.По поставщику\n0.Выход");
+            string k1 = Console.ReadLine();
+            if(k1=="1"){
+                Console.Write("Введите дату: ");
+                string date = Console.ReadLine();
+                var d = from i in countProduct
+                where i[3] == date
+                select i;
 
-var groupDriversName = from driver in drivers
-          where driver.name[0] == 'r'
-          select driver;
+                foreach(var i in d){
+                    Console.WriteLine($"id товара {i[0]} id производителя {i[1]} количество {i[2]}");    
+                }
+            }
+            if(k1=="2"){
+                string product_id = "0";
+                Console.Write("Введите название товар: ");
+                string product_name = Console.ReadLine();
+                for(int i = 0;i<product.Count();i++){
+                    if(product[i][1]==product_name){
+                        product_id = product[i][0];
+                    }
+                }
 
-foreach (var driver in groupDriversName)
-{
-    Console.WriteLine($"{driver.name}");
-}
+                var p = from i in countProduct
+                where i[0] == product_id
+                select i;
 
-class Car
-{
-    static int count = 0;
-    public int id { get; set; }
-    public string number { get; set; }
-    public string brand { get; set; }
+                foreach(var i in p){
+                    Console.WriteLine($"id производителя {i[1]} количество {i[2]} дата {i[3]}");    
+                }
+            }
+            if(k1=="3"){
+                string creator_id = "0";
+                Console.Write("Введите производителя: ");
+                string creator_name = Console.ReadLine();
+                for(int i = 0;i<creator.Count();i++){
+                    if(product[i][1]==creator_name){
+                        creator_id = product[i][0];
+                    }
+                }
 
-    public Car(string number, string brand)
-    {
-        id += count;
-        count++;
-        this.number = number;
-        this.brand = brand;
+                var c = from i in countProduct
+                where i[1] == creator_id
+                select i;
+
+                foreach(var i in c){
+                    Console.WriteLine($"id товара {i[0]} количество {i[2]} дата {i[3]}");    
+                }
+            }
+            if(k1=="0"){
+               break; 
+            }
+        }
+    }
+    if (k=="0"){
+        break;
     }
 }
-
-class Driver
-{
-    static int count = 0;
-    public int id { get; set; }
-    public string name { get; set; }
-    public int car_id { get; set; }
-
-    public Driver(string name, int car_id)
-    {
-        id += count;
-        count++;
-        this.name = name;
-        this.car_id = car_id;
-    }
-}
+ 
